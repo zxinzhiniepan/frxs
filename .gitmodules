@@ -1,0 +1,9 @@
+[submodule "frxs-web-areaboss"]
+	path = frxs-web-areaboss
+	url = git@github.com:zxinzhiniepan/frxs-web-areaboss.git
+[submodule "frxs-merchant"]
+	path = frxs-merchant
+	url = git@github.com:zxinzhiniepan/frxs-merchant.git
+[submodule "frxs-promotion"]
+	path = frxs-promotion
+	url = git@github.com:zxinzhiniepan/frxs-promotion.git
